@@ -1,0 +1,11 @@
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\bin\Debug\Monster.exe.config
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\bin\Debug\Monster.exe
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\bin\Debug\Monster.pdb
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\obj\Debug\Monster.csproj.AssemblyReference.cache
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\obj\Debug\Monster.MainForm.resources
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\obj\Debug\Monster.Properties.Resources.resources
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\obj\Debug\Monster.csproj.GenerateResource.cache
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\obj\Debug\Monster.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\obj\Debug\Monster.csproj.CopyComplete
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\obj\Debug\Monster.exe
+C:\Users\Roxana\Desktop\facultate\Anul III Semestrul II\IP\laburi\laborator8\2 Prototip\Monster\Monster\obj\Debug\Monster.pdb

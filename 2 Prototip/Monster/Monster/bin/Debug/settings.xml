@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<AllMonsters>
+  <Monsters>
+    <Monster>
+      <Image>monster1.jpg</Image>
+      <Color>blue</Color>
+      <Lives>3</Lives>
+    </Monster>
+    <Monster>
+      <Image>monster2.jpg</Image>
+      <Color>green</Color>
+      <Lives>3</Lives>
+    </Monster>
+    <Monster>
+      <Image>monster3.jpg</Image>
+      <Color>black</Color>
+      <Lives>4</Lives>
+    </Monster>
+    <Monster>
+      <Image>monster4.jpg</Image>
+      <Color>red</Color>
+      <Lives>5</Lives>
+    </Monster>
+  </Monsters>
+</AllMonsters>
